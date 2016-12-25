@@ -3,7 +3,7 @@ function alphabetsa(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>A (a)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/a.png\" id=\"imgapp\" class=\"\">";
+	strVar += "<div id=\"imga><img src=\"/images\/a.png\" id=\"imgapp\" class=\"\"><\/div>";
 	strVar += "<button id=\"na\" onclick=\"alphabetsb()\">next<\/button>";
 	
 	strVar += "<\/div>";
@@ -17,7 +17,7 @@ function alphabetsb(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>B (b)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/b.png\" id=\"\" class=\"\">";
+	strVar += "<div id=\"imga><img src=\"/images\/b.png\" id=\"\" class=\"\"><\/div>";
 	strVar += "<button id=\"na\" onclick=\"alphabetsc()\">next<\/button>";
 	strVar += "<button id=\"ba\" onclick=\"alphabetsa()\">back<\/button>";
 	strVar += "<\/div>";
@@ -31,7 +31,7 @@ function alphabetsc(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>C (c)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/c.png\" id=\"imgapp\" class=\"\">";
+	strVar += "<div id=\"imga><img src=\"/images\/c.png\" id=\"imgapp\" class=\"\"><\/div>";
 	strVar += "<button id=\"na\" onclick=\"alphabetsd()\">next<\/button>";
 	strVar += "<button id=\"ba\" onclick=\"alphabetsc()\">back<\/button>";
 	strVar += "<\/div>";
@@ -45,7 +45,7 @@ function alphabetsd(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>D (d)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/d.png\" id=\"imgapp\" class=\"\">";
+	strVar += "<div id=\"imga><img src=\"/images\/d.png\" id=\"imgapp\" class=\"\"><\/div>";
 	strVar += "<button id=\"na\" onclick=\"alphabetse()\">next<\/button>";
 	strVar += "<button id=\"ba\" onclick=\"alphabetsc()\">back<\/button>";
 	strVar += "<\/div>";
@@ -59,7 +59,7 @@ function alphabetse(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>E (e)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/e.png\" id=\"imgapp\" class=\"\">";
+	strVar += "<div id=\"imga><img src=\"/images\/e.png\" id=\"imgapp\" class=\"\"><\/div>";
 	strVar += "<button id=\"na\" onclick=\"alphabetsf()\">next<\/button>";
 	strVar += "<button id=\"ba\" onclick=\"alphabetsd()\">back<\/button>";
 	strVar += "<\/div>";
@@ -73,7 +73,7 @@ function alphabetsf(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>F (f)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/f.png\" id=\"imgapp\" class=\"\">";
+	strVar += "<div id=\"imga><img src=\"/images\/f.png\" id=\"imgapp\" class=\"\"><\/div>";
 	strVar += "<button id=\"na\" onclick=\"alphabetsg()\">next<\/button>";
 	strVar += "<button id=\"ba\" onclick=\"alphabetse()\">back<\/button>";
 	strVar += "<\/div>";
@@ -87,7 +87,7 @@ function alphabetsg(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>G (g)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/g.png\" id=\"imgapp\" class=\"\">";
+	strVar += "<div id=\"imga><img src=\"/images\/g.png\" id=\"imgapp\" class=\"\"><\/div>";
 	strVar += "<button id=\"na\" onclick=\"alphabetsh()\">next<\/button>";
 	strVar += "<button id=\"ba\" onclick=\"alphabetsf()\">back<\/button>";
 	strVar += "<\/div>";
@@ -101,7 +101,7 @@ function alphabetsh(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>H (h)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/h.png\" id=\"imgapp\" class=\"\">";
+	strVar += "<div id=\"imga><img src=\"/images\/h.png\" id=\"imgapp\" class=\"\"><\/div>";
 	strVar += "<button id=\"na\" onclick=\"alphabetsi()\">next<\/button>";
 	strVar += "<button id=\"ba\" onclick=\"alphabetsg()\">back<\/button>";
 	strVar += "<\/div>";
@@ -115,7 +115,7 @@ function alphabetsi(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>I (i)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/i.png\" id=\"imgapp\" class=\"\">";
+	strVar += "<div id=\"imga><img src=\"/images\/i.png\" id=\"imgapp\" class=\"\"><\/div>";
 	strVar += "<button id=\"na\" onclick=\"alphabetsj()\">next<\/button>";
 	strVar += "<button id=\"ba\" onclick=\"alphabetsh()\">back<\/button>";
 	strVar += "<\/div>";
@@ -129,7 +129,7 @@ function alphabetsj(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>J (j)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/j.png\" id=\"imgapp\" class=\"\">";
+	strVar += "<div id=\"imga><img src=\"/images\/j.png\" id=\"imgapp\" class=\"\"><\/div>";
 	strVar += "<button id=\"na\" onclick=\"alphabetsk()\">next<\/button>";
 	strVar += "<button id=\"ba\" onclick=\"alphabetsi()\">back<\/button>";
 	strVar += "<\/div>";
@@ -143,7 +143,7 @@ function alphabetsk(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>K (k)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/k.png\" id=\"imgapp\" class=\"\">";
+	strVar += "<div id=\"imga><img src=\"/images\/k.png\" id=\"imgapp\" class=\"\"><\/div>";
 	strVar += "<button id=\"na\" onclick=\"alphabetsl()\">next<\/button>";
 	strVar += "<button id=\"ba\" onclick=\"alphabetsk()\">back<\/button>";
 	strVar += "<\/div>";
@@ -157,7 +157,7 @@ function alphabetsl(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>L (l)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/l.png\" id=\"imgapp\" class=\"\">";
+	strVar += "<div id=\"imga><img src=\"/images\/l.png\" id=\"imgapp\" class=\"\"><\/div>";
 	strVar += "<button id=\"na\" onclick=\"alphabetsm()\">next<\/button>";
 	strVar += "<button id=\"ba\" onclick=\"alphabetsk()\">back<\/button>";
 	strVar += "<\/div>";
@@ -171,7 +171,7 @@ function alphabetsm(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>M (m)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/m.png\" id=\"imgapp\" class=\"\">";
+	strVar += "<div id=\"imga><img src=\"/images\/m.png\" id=\"imgapp\" class=\"\"><\/div>";
 	strVar += "<button id=\"na\" onclick=\"alphabetsn()\">next<\/button>";
 	strVar += "<button id=\"ba\" onclick=\"alphabetsl()\">back<\/button>";
 	strVar += "<\/div>";
@@ -185,7 +185,7 @@ function alphabetsn(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>N (n)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/n.png\" id=\"imgapp\" class=\"\">";
+	strVar += "<div id=\"imga><img src=\"/images\/n.png\" id=\"imgapp\" class=\"\"><\/div>";
 	strVar += "<button id=\"na\" onclick=\"alphabetso()\">next<\/button>";
 	strVar += "<button id=\"ba\" onclick=\"alphabetsm()\">back<\/button>";
 	strVar += "<\/div>";
@@ -199,7 +199,7 @@ function alphabetso(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>O (o)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/o.png\" id=\"imgapp\" class=\"\">";
+	strVar += "<div id=\"imga><img src=\"/images\/o.png\" id=\"imgapp\" class=\"\"><\/div>";
 	strVar += "<button id=\"na\" onclick=\"alphabetsp()\">next<\/button>";
 	strVar += "<button id=\"ba\" onclick=\"alphabetsn()\">back<\/button>";
 	strVar += "<\/div>";
@@ -212,7 +212,7 @@ function alphabetso(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>P (p)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/p.png\" id=\"imgapp\" class=\"\">";
+	strVar += "<div id=\"imga><img src=\"/images\/p.png\" id=\"imgapp\" class=\"\"><\/div>";
 	strVar += "<button id=\"na\" onclick=\"alphabetsq()\">next<\/button>";
 	strVar += "<button id=\"ba\" onclick=\"alphabetso()\">back<\/button>";
 	strVar += "<\/div>";
@@ -226,7 +226,7 @@ function alphabetsq(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>Q (q)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/q.png\" id=\"imgapp\" class=\"\">";
+	strVar += "<div id=\"imga><img src=\"/images\/q.png\" id=\"imgapp\" class=\"\"><\/div>";
 	strVar += "<button id=\"na\" onclick=\"alphabetsr()\">next<\/button>";
 	strVar += "<button id=\"ba\" onclick=\"alphabetsp()\">back<\/button>";
 	strVar += "<\/div>";
@@ -240,7 +240,7 @@ function alphabetsr(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>R (r)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/r.png\" id=\"imgapp\" class=\"\">";
+	strVar += "<div id=\"imga><img src=\"/images\/r.png\" id=\"imgapp\" class=\"\"><\/div>";
 	strVar += "<button id=\"na\" onclick=\"alphabetss()\">next<\/button>";
 	strVar += "<button id=\"ba\" onclick=\"alphabetsq()\">back<\/button>";
 	strVar += "<\/div>";
@@ -254,7 +254,7 @@ function alphabetss(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>S (s)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/s.png\" id=\"imgapp\" class=\"\">";
+	strVar += "<div id=\"imga><img src=\"/images\/s.png\" id=\"imgapp\" class=\"\"><\/div>";
 	strVar += "<button id=\"na\" onclick=\"alphabetst()\">next<\/button>";
 	strVar += "<button id=\"ba\" onclick=\"alphabetsr()\">back<\/button>";
 	strVar += "<\/div>";
@@ -268,7 +268,7 @@ function alphabetst(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>T (t)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/t.png\" id=\"imgapp\" class=\"\">";
+	strVar += "<div id=\"imga><img src=\"/images\/t.png\" id=\"imgapp\" class=\"\"><\/div>";
 	strVar += "<button id=\"na\" onclick=\"alphabetsu()\">next<\/button>";
 	strVar += "<button id=\"ba\" onclick=\"alphabetss()\">back<\/button>";
 	strVar += "<\/div>";
@@ -282,7 +282,7 @@ function alphabetsu(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>U (u)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/u.png\" id=\"imgapp\" class=\"\">";
+	strVar += "<div id=\"imga><img src=\"/images\/u.png\" id=\"imgapp\" class=\"\"><\/div>";
 	strVar += "<button id=\"na\" onclick=\"alphabetsv()\">next<\/button>";
 	strVar += "<button id=\"ba\" onclick=\"alphabetst()\">back<\/button>";
 	strVar += "<\/div>";
@@ -296,7 +296,7 @@ function alphabetsv(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>V (v)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/v.png\" id=\"imgapp\" class=\"\">";
+	strVar += "<div id=\"imga><img src=\"/images\/v.png\" id=\"imgapp\" class=\"\"><\/div>";
 	strVar += "<button id=\"na\" onclick=\"alphabetsw()\">next<\/button>";
 	strVar += "<button id=\"ba\" onclick=\"alphabetsu()\">back<\/button>";
 	strVar += "<\/div>";
@@ -310,7 +310,7 @@ function alphabetsw(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>W (w)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/w.png\" id=\"imgapp\" class=\"\">";
+	strVar += "<div id=\"imga><img src=\"/images\/w.png\" id=\"imgapp\" class=\"\"><\/div>";
 	strVar += "<button id=\"na\" onclick=\"alphabetsx()\">next<\/button>";
 	strVar += "<button id=\"ba\" onclick=\"alphabetsv()\">back<\/button>";
 	strVar += "<\/div>";
@@ -324,7 +324,7 @@ function alphabetsx(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>X (x)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/x.png\" id=\"imgapp\" class=\"\">";
+	strVar += "<div id=\"imga><img src=\"/images\/x.png\" id=\"imgapp\" class=\"\"><\/div>";
 	strVar += "<button id=\"na\" onclick=\"alphabetsy()\">next<\/button>";
 	strVar += "<button id=\"ba\" onclick=\"alphabetsw()\">back<\/button>";
 	strVar += "<\/div>";
@@ -338,7 +338,7 @@ function alphabetsy(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>Y (y)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/y.png\" id=\"imgapp\" class=\"\">";
+	strVar += "<div id=\"imga><img src=\"/images\/y.png\" id=\"imgapp\" class=\"\"><\/div>";
 	strVar += "<button id=\"na\" onclick=\"alphabetsz()\">next<\/button>";
 	strVar += "<button id=\"ba\" onclick=\"alphabetsx()\">back<\/button>";
 	strVar += "<\/div>";
@@ -352,7 +352,7 @@ function alphabetsz(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>Z (z)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/z.png\" id=\"imgapp\" class=\"\">";
+	strVar += "<div id=\"imga><img src=\"/images\/z.png\" id=\"imgapp\" class=\"\"><\/div>";
 	
 	strVar += "<button id=\"ba\" onclick=\"alphabetsx()\">back<\/button>";
 	strVar += "<\/div>";
