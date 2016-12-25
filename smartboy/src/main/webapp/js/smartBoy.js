@@ -3,7 +3,7 @@ function alphabetsa(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>A (a)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/a.png\" id=\"imgapp\" class=\"\"><\/div>";
+	strVar += "<div id=\"imga><img src=\"..\images\/a.png\"><\/div>";
 	strVar += "<button id=\"na\" onclick=\"alphabetsb()\">next<\/button>";
 	
 	strVar += "<\/div>";
@@ -17,7 +17,7 @@ function alphabetsb(){
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
 	strVar += "<p>B (b)<\/p>";
-	strVar += "<div id=\"imga><img src=\"/images\/b.png\" id=\"\" class=\"\"><\/div>";
+	strVar += "<div id=\"imga><img src=\"..\/images\/b.png\" id=\"\" class=\"\"><\/div>";
 	strVar += "<button id=\"na\" onclick=\"alphabetsc()\">next<\/button>";
 	strVar += "<button id=\"ba\" onclick=\"alphabetsa()\">back<\/button>";
 	strVar += "<\/div>";
@@ -360,4 +360,51 @@ function alphabetsz(){
 	$(".second")[0].innerHTML = strVar;
 
 	
+}
+function historys(){
+	var strVar="";
+	strVar += "<div id=\"leaders\" onclick=\"history1\">";
+	strVar += "<p id=\"his\">leaders<\/p>";
+	
+	strVar += "<\/div>";
+	strVar += "<div id=\"poet\" onclick=\"poets()\">";
+	strVar += "<p id=\"his\">poets<\/p>";
+	
+	strVar += "<\/div>";
+	
+	$(".second")[0].innerHTML = strVar;
+}
+function poets(){
+	
+
+var strVar="";
+strVar += "<div id=\"poets\">";
+strVar += "<div id=\"thiruvalluvar\" onclick=\"valluvar()\">";
+strVar += "Thiruvalluvar";
+strVar += "<\/div>";
+strVar += "<div id=\"bharathiyar\">";
+strVar += "Bharathiyar";
+strVar += "<\/div>";
+strVar += "<div id=\"kambar\">";
+strVar += "Kambar";
+strVar += "<\/div>";
+strVar += "<div id=\"thirumular\">";
+strVar += "Thirumular";
+strVar += "<\/div>";
+strVar += "<\/div>";
+
+$(".second")[0].innerHTML = strVar;
+}
+function valluvar(){
+	var strVar="";
+	strVar += "<div id=\"valluvar\">";
+	strVar += "<img src=\"..\/images\/valluvar.jpg\">";
+	strVar += "<div id=\"details\">";
+	strVar += "<\/div>";
+	strVar += "<a href=\"https:\/\/ta.wikipedia.org\/wiki\/%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%B5%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AF%81%E0%AE%B5%E0%AE%B0%E0%AF%8D\">Thiruvalluvar<\/p>";
+
+	strVar += "<\/div>";
+	strVar += "<button id=\"na\" onclick=\"()\">next<\/button>";
+	strVar += "<button id=\"ba\" onclick=\"()\">back<\/button>";
+	$(".second")[0].innerHTML = strVar;
 }
