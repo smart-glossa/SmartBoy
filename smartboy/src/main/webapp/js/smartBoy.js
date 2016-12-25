@@ -382,7 +382,7 @@ strVar += "<div id=\"poets\">";
 strVar += "<div id=\"thiruvalluvar\" onclick=\"valluvar()\">";
 strVar += "Thiruvalluvar";
 strVar += "<\/div>";
-strVar += "<div id=\"bharathiyar\">";
+strVar += "<div id=\"bharathiyar\"  onclick=\"bharathi()\">";
 strVar += "Bharathiyar";
 strVar += "<\/div>";
 strVar += "<div id=\"kambar\">";
@@ -401,10 +401,22 @@ function valluvar(){
 	strVar += "<img src=\"..\/images\/valluvar.jpg\">";
 	strVar += "<div id=\"details\">";
 	strVar += "<\/div>";
-	strVar += "<a href=\"https:\/\/ta.wikipedia.org\/wiki\/%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%B5%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AF%81%E0%AE%B5%E0%AE%B0%E0%AF%8D\">Thiruvalluvar<\/p>";
+	strVar += "<a href=\"https:\/\/ta.wikipedia.org\/wiki\/%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%B5%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AF%81%E0%AE%B5%E0%AE%B0%E0%AF%8D\">Thiruvalluvar<\/a>";
 
 	strVar += "<\/div>";
-	strVar += "<button id=\"na\" onclick=\"()\">next<\/button>";
+	strVar += "<button id=\"na\" onclick=\"bharathi()\">next<\/button>";
 	strVar += "<button id=\"ba\" onclick=\"()\">back<\/button>";
+	$(".second")[0].innerHTML = strVar;
+}
+function bharathi(){
+	var strVar="";
+	strVar += "<div id=\"bharathi\">";
+	strVar += "<img src=\"..\/images\/bharathi.jpg\">";
+	strVar += "<div id=\"details\">";
+	strVar += "<\/div>";
+	strVar += "<a href=\"https:\/\/ta.wikipedia.org\/wiki\/%E0%AE%9A%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%AE%E0%AE%A3%E0%AE%BF%E0%AE%AF_%E0%AE%AA%E0%AE%BE%E0%AE%B0%E0%AE%A4%E0%AE%BF\">Bharathiyar<\/a>";
+	strVar += "<\/div>";
+	strVar += "<button id=\"na\" onclick=\"()\">next<\/button>";
+	strVar += "<button id=\"ba\" onclick=\"valluvar()\">back<\/button>";
 	$(".second")[0].innerHTML = strVar;
 }
