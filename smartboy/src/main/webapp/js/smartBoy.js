@@ -16,7 +16,7 @@ function alphabetsb(){
 	var strVar="";
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
-	strVar += "<p>A (a)<\/p>";
+	strVar += "<p>B (b)<\/p>";
 	strVar += "<div id=\"imga><img src=\"/images\/b.png\" id=\"\" class=\"\">";
 	strVar += "<button id=\"na\">next<\/button>";
 	strVar += "<button id=\"ba\">back<\/button>";
@@ -30,7 +30,7 @@ function alphabetsc(){
 	var strVar="";
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
-	strVar += "<p>A (a)<\/p>";
+	strVar += "<p>C (c)<\/p>";
 	strVar += "<div id=\"imga><img src=\"/images\/c.png\" id=\"imgapp\" class=\"\">";
 	strVar += "<button id=\"na\">next<\/button>";
 	strVar += "<button id=\"ba\">back<\/button>";
@@ -44,7 +44,7 @@ function alphabetsd(){
 	var strVar="";
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
-	strVar += "<p>A (a)<\/p>";
+	strVar += "<p>D (d)<\/p>";
 	strVar += "<div id=\"imga><img src=\"/images\/d.png\" id=\"imgapp\" class=\"\">";
 	strVar += "<button id=\"na\">next<\/button>";
 	strVar += "<button id=\"ba\">back<\/button>";
@@ -58,7 +58,7 @@ function alphabetse(){
 	var strVar="";
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
-	strVar += "<p>A (a)<\/p>";
+	strVar += "<p>E (e)<\/p>";
 	strVar += "<div id=\"imga><img src=\"/images\/e.png\" id=\"imgapp\" class=\"\">";
 	strVar += "<button id=\"na\">next<\/button>";
 	strVar += "<button id=\"ba\">back<\/button>";
@@ -72,7 +72,7 @@ function alphabetsf(){
 	var strVar="";
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
-	strVar += "<p>A (a)<\/p>";
+	strVar += "<p>F (f)<\/p>";
 	strVar += "<div id=\"imga><img src=\"/images\/f.png\" id=\"imgapp\" class=\"\">";
 	strVar += "<button id=\"na\">next<\/button>";
 	strVar += "<button id=\"ba\">back<\/button>";
@@ -86,7 +86,7 @@ function alphabetsg(){
 	var strVar="";
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
-	strVar += "<p>A (a)<\/p>";
+	strVar += "<p>G (g)<\/p>";
 	strVar += "<div id=\"imga><img src=\"/images\/g.png\" id=\"imgapp\" class=\"\">";
 	strVar += "<button id=\"na\">next<\/button>";
 	strVar += "<button id=\"ba\">back<\/button>";
@@ -100,7 +100,7 @@ function alphabetsh(){
 	var strVar="";
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
-	strVar += "<p>A (a)<\/p>";
+	strVar += "<p>H (h)<\/p>";
 	strVar += "<div id=\"imga><img src=\"/images\/h.png\" id=\"imgapp\" class=\"\">";
 	strVar += "<button id=\"na\">next<\/button>";
 	strVar += "<button id=\"ba\">back<\/button>";
@@ -114,7 +114,7 @@ function alphabetsi(){
 	var strVar="";
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
-	strVar += "<p>A (a)<\/p>";
+	strVar += "<p>I (i)<\/p>";
 	strVar += "<div id=\"imga><img src=\"/images\/i.png\" id=\"imgapp\" class=\"\">";
 	strVar += "<button id=\"na\">next<\/button>";
 	strVar += "<button id=\"ba\">back<\/button>";
@@ -128,7 +128,7 @@ function alphabetsj(){
 	var strVar="";
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
-	strVar += "<p>A (a)<\/p>";
+	strVar += "<p>J (j)<\/p>";
 	strVar += "<div id=\"imga><img src=\"/images\/j.png\" id=\"imgapp\" class=\"\">";
 	strVar += "<button id=\"na\">next<\/button>";
 	strVar += "<button id=\"ba\">back<\/button>";
@@ -142,7 +142,7 @@ function alphabetsk(){
 	var strVar="";
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
-	strVar += "<p>A (a)<\/p>";
+	strVar += "<p>K (k)<\/p>";
 	strVar += "<div id=\"imga><img src=\"/images\/k.png\" id=\"imgapp\" class=\"\">";
 	strVar += "<button id=\"na\">next<\/button>";
 	strVar += "<button id=\"ba\">back<\/button>";
@@ -156,7 +156,7 @@ function alphabetsl(){
 	var strVar="";
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
-	strVar += "<p>A (a)<\/p>";
+	strVar += "<p>L (l)<\/p>";
 	strVar += "<div id=\"imga><img src=\"/images\/l.png\" id=\"imgapp\" class=\"\">";
 	strVar += "<button id=\"na\">next<\/button>";
 	strVar += "<button id=\"ba\">back<\/button>";
@@ -170,7 +170,7 @@ function alphabetsm(){
 	var strVar="";
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
-	strVar += "<p>A (a)<\/p>";
+	strVar += "<p>M (m)<\/p>";
 	strVar += "<div id=\"imga><img src=\"/images\/m.png\" id=\"imgapp\" class=\"\">";
 	strVar += "<button id=\"na\">next<\/button>";
 	strVar += "<button id=\"ba\">back<\/button>";
@@ -184,7 +184,7 @@ function alphabetsn(){
 	var strVar="";
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
-	strVar += "<p>A (a)<\/p>";
+	strVar += "<p>N (n)<\/p>";
 	strVar += "<div id=\"imga><img src=\"/images\/n.png\" id=\"imgapp\" class=\"\">";
 	strVar += "<button id=\"na\">next<\/button>";
 	strVar += "<button id=\"ba\">back<\/button>";
@@ -198,7 +198,7 @@ function alphabetso(){
 	var strVar="";
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
-	strVar += "<p>A (a)<\/p>";
+	strVar += "<p>O (o)<\/p>";
 	strVar += "<div id=\"imga><img src=\"/images\/o.png\" id=\"imgapp\" class=\"\">";
 	strVar += "<button id=\"na\">next<\/button>";
 	strVar += "<button id=\"ba\">back<\/button>";
@@ -211,7 +211,7 @@ function alphabetso(){
 	var strVar="";
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
-	strVar += "<p>A (a)<\/p>";
+	strVar += "<p>P (p)<\/p>";
 	strVar += "<div id=\"imga><img src=\"/images\/p.png\" id=\"imgapp\" class=\"\">";
 	strVar += "<button id=\"na\">next<\/button>";
 	strVar += "<button id=\"ba\">back<\/button>";
@@ -225,7 +225,7 @@ function alphabetsq(){
 	var strVar="";
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
-	strVar += "<p>A (a)<\/p>";
+	strVar += "<p>Q (q)<\/p>";
 	strVar += "<div id=\"imga><img src=\"/images\/q.png\" id=\"imgapp\" class=\"\">";
 	strVar += "<button id=\"na\">next<\/button>";
 	strVar += "<button id=\"ba\">back<\/button>";
@@ -239,7 +239,7 @@ function alphabetsr(){
 	var strVar="";
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
-	strVar += "<p>A (a)<\/p>";
+	strVar += "<p>R (r)<\/p>";
 	strVar += "<div id=\"imga><img src=\"/images\/r.png\" id=\"imgapp\" class=\"\">";
 	strVar += "<button id=\"na\">next<\/button>";
 	strVar += "<button id=\"ba\">back<\/button>";
@@ -253,7 +253,7 @@ function alphabetss(){
 	var strVar="";
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
-	strVar += "<p>A (a)<\/p>";
+	strVar += "<p>S (s)<\/p>";
 	strVar += "<div id=\"imga><img src=\"/images\/s.png\" id=\"imgapp\" class=\"\">";
 	strVar += "<button id=\"na\">next<\/button>";
 	strVar += "<button id=\"ba\">back<\/button>";
@@ -267,7 +267,7 @@ function alphabetst(){
 	var strVar="";
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
-	strVar += "<p>A (a)<\/p>";
+	strVar += "<p>T (t)<\/p>";
 	strVar += "<div id=\"imga><img src=\"/images\/t.png\" id=\"imgapp\" class=\"\">";
 	strVar += "<button id=\"na\">next<\/button>";
 	strVar += "<button id=\"ba\">back<\/button>";
@@ -281,7 +281,7 @@ function alphabetsu(){
 	var strVar="";
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
-	strVar += "<p>A (a)<\/p>";
+	strVar += "<p>U (u)<\/p>";
 	strVar += "<div id=\"imga><img src=\"/images\/u.png\" id=\"imgapp\" class=\"\">";
 	strVar += "<button id=\"na\">next<\/button>";
 	strVar += "<button id=\"ba\">back<\/button>";
@@ -295,7 +295,7 @@ function alphabetsv(){
 	var strVar="";
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
-	strVar += "<p>A (a)<\/p>";
+	strVar += "<p>V (v)<\/p>";
 	strVar += "<div id=\"imga><img src=\"/images\/v.png\" id=\"imgapp\" class=\"\">";
 	strVar += "<button id=\"na\">next<\/button>";
 	strVar += "<button id=\"ba\">back<\/button>";
@@ -309,7 +309,7 @@ function alphabetsw(){
 	var strVar="";
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
-	strVar += "<p>A (a)<\/p>";
+	strVar += "<p>W (w)<\/p>";
 	strVar += "<div id=\"imga><img src=\"/images\/w.png\" id=\"imgapp\" class=\"\">";
 	strVar += "<button id=\"na\">next<\/button>";
 	strVar += "<button id=\"ba\">back<\/button>";
@@ -323,7 +323,7 @@ function alphabetsx(){
 	var strVar="";
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
-	strVar += "<p>A (a)<\/p>";
+	strVar += "<p>X (x)<\/p>";
 	strVar += "<div id=\"imga><img src=\"/images\/x.png\" id=\"imgapp\" class=\"\">";
 	strVar += "<button id=\"na\">next<\/button>";
 	strVar += "<button id=\"ba\">back<\/button>";
@@ -337,7 +337,7 @@ function alphabetsy(){
 	var strVar="";
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
-	strVar += "<p>A (a)<\/p>";
+	strVar += "<p>Y (y)<\/p>";
 	strVar += "<div id=\"imga><img src=\"/images\/y.png\" id=\"imgapp\" class=\"\">";
 	strVar += "<button id=\"na\">next<\/button>";
 	strVar += "<button id=\"ba\">back<\/button>";
@@ -351,7 +351,7 @@ function alphabetsz(){
 	var strVar="";
 	strVar += "<div id=\"a\">";
 	strVar += "<h1>Alphabet Letters<\/h1>";
-	strVar += "<p>A (a)<\/p>";
+	strVar += "<p>Z (z)<\/p>";
 	strVar += "<div id=\"imga><img src=\"/images\/z.png\" id=\"imgapp\" class=\"\">";
 	strVar += "<button id=\"na\">next<\/button>";
 	strVar += "<button id=\"ba\">back<\/button>";
